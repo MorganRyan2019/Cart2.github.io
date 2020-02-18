@@ -497,35 +497,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Location": "Spain",
-        "a": 0,
-        "b": 0,
-        "c": 0,
-        "d": 0,
-        "e": 0,
-        "f": 0,
-        "g": 0,
-        "h": 0,
-        "i": 0,
-        "j": 0,
-        "k": 0,
-        "l": 1,
-        "m": 1,
-        "n": 1,
-        "o": 1,
-        "p": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.7492,
-          40.4637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Location": "Sri Lanka",
         "a": 0,
         "b": 0,
