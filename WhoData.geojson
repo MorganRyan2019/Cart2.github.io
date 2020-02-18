@@ -317,7 +317,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 84.124,28.3949 ]
+       "coordinates":  [ 84.1240,28.3949 ]
     },
     "properties": {
     "Location":"Nepal",
@@ -395,7 +395,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 105.3188,61.524 ]
+       "coordinates":  [ 105.3188,61.5240 ]
     },
     "properties": {
     "Location":"Russia",
@@ -525,7 +525,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 100.9925,15.87 ]
+       "coordinates":  [ 100.9925,15.8700 ]
     },
     "properties": {
     "Location":"Thailand",
